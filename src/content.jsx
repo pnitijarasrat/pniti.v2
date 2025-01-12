@@ -37,8 +37,8 @@ export default function Content () {
             <div className='font-bold text-xl mt-4'>Certificates</div>
             <ul className='flex flex-col gap-2'>
                 <ItemList header="JavaScript: The Hard Parts, v2" subHeader="Frontend Master" link={"https://static.frontendmasters.com/ud/c/af8fb0c6fb/fjjCYVxYTO/javascript-hard-parts-v2.pdf"}/>
-                <ItemList header="Complete Intro to React, v7" subHeader="Frontend Master" link={"https://static.frontendmasters.com/ud/c/af8fb0c6fb/EtNBEoWAeZ/complete-react-v7.pdf"}/>
-                <ItemList header="Mastering TypeScript 2022 Edition" subHeader="Udemy" link={'https://udemy-certificate.s3.amazonaws.com/pdf/UC-8a1e9895-84c5-47c8-96ff-5569f63facb3.pdf'}/>
+                <ItemList header="Mastering TypeScript 2022 Edition" subHeader="Udemy" link={'https://coursera.org/share/2ddec7e8a507bcda4a1b5bd8151e76fe'}/>
+                <ItemList header="Six Sigma Principle" subHeader="Coursera" link={"https://static.frontendmasters.com/ud/c/af8fb0c6fb/EtNBEoWAeZ/complete-react-v7.pdf"}/>
             </ul>
             <div className='mt-4'>View all my certificates on my <a className='italic text-blue-400 underline underline-offset-2' href='https://www.linkedin.com/in/p-nitijarasrat/details/certifications/' target='_blank' rel="noreferrer">linkedin</a></div>
             <div className='font-bold text-xl mt-4'>Contact</div>
